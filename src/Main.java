@@ -7,6 +7,6 @@ public class Main {
     //fixture 1
 
 
-    //fixture 2 개발 많이 했다요
+    //fixture 2 개발 왕창
 
 }
